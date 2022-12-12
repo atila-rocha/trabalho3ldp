@@ -5,10 +5,10 @@ Esse é um trabalho que possui o fito de:
 
 # Requisitos :computer:
 * Esse código exige somente o uso de um compilador para a Linguagem C 
-* Também é recomendado o uso do Ubuntu 20.04 e do gcc 9.4 para a melhor execução do código
+* É recomendado o uso do **Ubuntu 20.04** e do **gcc 9.4** para a melhor execução do código
 
 # Acesso ao trabalho :ledger:
-Você pode acessar o código-fonte ou baixá-lo
+Você pode acessar o código-fonte ou baixar o repositório
 
 ## Abrir e rodar o trabalho :hammer:
 Após baixar o trabalho, abra o terminal e digite o seguinte comando:
@@ -16,4 +16,4 @@ Após baixar o trabalho, abra o terminal e digite o seguinte comando:
 - Em seguida, o código será compilado. Para iniciar, digite o comando:
 * `./tr3`
 * Para sair do programa, apenas digite `-1`. Após isso, o programa imprime os números os quais o usuário digitou em ordem crescente e sem repetições.
-* Em seguida, o programa é encerrado
+* Em seguida, o programa é encerrado. 
